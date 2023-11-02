@@ -6,7 +6,7 @@ require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/golang/protobuf v1.5.2
-	github.com/kiprotect/go-helpers v0.0.0-20211210144244-79ce90e73e79
+	github.com/kiprotect/go-helpers v0.0.0-20230906112808-332b61cb24dc
 	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/onsi/gomega v1.17.0 // indirect
 	github.com/prometheus/client_golang v1.12.1
